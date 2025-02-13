@@ -1,7 +1,7 @@
 # Simple Quiz Application
 
-![alt text](https://github.com/muhammadzohaibr556/quiz-app/blob/master/thumbnail-1.png)
-![alt text](https://github.com/muhammadzohaibr556/quiz-app/blob/master/thumbnail-2.png)
+![alt text](https://github.com/amnbaluni/Sparkl-Project/blob/master/thumbnail-1.png)
+![alt text](https://github.com/amnbaluni/Sparkl-Project/blob/master/thumbnail-2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
